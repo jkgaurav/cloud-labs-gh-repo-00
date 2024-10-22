@@ -1,5 +1,3 @@
----
-
 ### FAQ Document: Common Issues and Fixes for Terraform Storage Setup
 
 #### 1. **Error: Invalid Storage Account Name**
