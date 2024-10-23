@@ -1,4 +1,4 @@
-### **: Creating an Azure Active Directory Group for AKS Administrators via Azure Portal**
+### **Creating an Azure Active Directory Group for AKS Administrators via Azure Portal**
 
 ---
 
